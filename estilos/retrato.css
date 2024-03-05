@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(../imagens/retrato.jpg);
+}
+h1, h2, p {
+    background-color: rgba(165, 42, 42, 0.301);
+}
+#paisagem {
+    display: none;
+}
+
